@@ -1,0 +1,25 @@
+html {
+  box-sizing: border-box;
+
+  font: normal 100%/1.5 "Source Sans Pro", sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 3rem;
+  text-align: center;
+
+p {
+  color: darkgoldenrod;
+  font-weight: bold;
+}
+
+p span {
+  display: block;
+
+  color gold;
+  font-size: 5rem;
+}

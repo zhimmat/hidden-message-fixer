@@ -1,0 +1,21 @@
+repo: "hidden-message-fixer"
+canvasCourse: "467503"
+canvasAssignment: "4202522"
+
+naming: true
+commits: 1
+
+html:
+  - path: "index.html"
+    valid: true
+    bestPractices: true
+
+css:
+  - path: "css/main.css"
+    valid: true
+    bestPractices: true
+
+js:
+  - path: "js/main.js"
+    valid: true
+    bestPractices: true
